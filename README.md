@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyash Thakur</h1>
 <h3 align="center">A computer science engineer from INDIA</h3>
 
-<img align ="right" alt="Coding" width = "300" src ="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align ="right" alt="Coding" width = "295" src ="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 💬 Ask me about **Competitive Programming**
 
